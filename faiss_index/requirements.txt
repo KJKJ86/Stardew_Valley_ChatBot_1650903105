@@ -1,0 +1,5 @@
+flask
+ctransformers
+langchain
+langchain_community
+faiss-cpu
